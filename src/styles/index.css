@@ -1,0 +1,16 @@
+@import url("./homepage.css");
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Almarai", sans-serif;
+}
+
+.container {
+  margin: auto;
+  max-width: 1280px;
+}
+.player-container div:nth-child(1) {
+  width: 100% !important;
+  height: 100% !important;
+}
